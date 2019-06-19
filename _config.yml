@@ -14,10 +14,10 @@ title: "AdoptOpenJDK CloudNative Conference"
 email: "devfest@gdg.org.ua"
 description: "Welcome to the AdoptOpenJDK CloudNative Conference"
 baseurl: ""
-url: "https://gdg-x.github.io"
+url: "https://cloudnativeconf.adoptopenjdk.net"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsSiteUrl: "https://cloudnativeconf.adoptopenjdk.net"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
@@ -26,7 +26,7 @@ organizerAlternateName: "London Java Community"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "lviv@gdg.org.ua"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "https://cloudnativeconf.adoptopenjdk.net"
 
 # Head
 metaKeywords: "event, adoptopenjdk, CloudNative, unconference, programming, java, openjdk, developers, london java community"
@@ -120,7 +120,7 @@ twitterHashTag: "adoptconf"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
+organizersTitle: "Sponsors"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block

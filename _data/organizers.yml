@@ -1,9 +1,5 @@
 -
-  group: "Main organizer"
-  elements:
-    - {name: "AdoptOpenJDK", description: "AdoptOpenJDK", link: "htts://adoptopenjdk.net", imageUrl: "adopt_logo_blue.svg"}
--
-  group: "Co-organizers"
+  group: "Platinum"
   elements:
     - {name: "IBM", description: "IBM", link: "htts://ibm.com", imageUrl: "ibm.svg"}
     - {name: "London Java Community", description: "LJC", link: "http://londonjavacommunity.co.uk/", imageUrl: "ljc.png"}

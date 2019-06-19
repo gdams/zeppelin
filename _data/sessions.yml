@@ -5,6 +5,12 @@
   service: true
   description: "The best time to talk with speakers and attendees"
 -
+  id: 403
+  title: "Opening Keynote"
+  place: "Hall"
+  service: true
+  description: "Introduction to conference"
+-
   id: 503
   title: "Lunch Break"
   place: "Dining room"
@@ -25,7 +31,7 @@
   subtype: presentation
   speakers: [4, 5]
   language: en
-  complexity: "Intermediate" 
+  complexity: "Intermediate"
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
@@ -35,7 +41,7 @@
   subtype: presentation
   speakers: [4]
   language: en
-  complexity: "Intermediate" 
+  complexity: "Intermediate"
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
